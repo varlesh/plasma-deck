@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg"  width="32" height="32" version="1">
+ <g id="Battery" transform="matrix(1.4545454,0,0,1.4545454,-46.545453,-5.8181804)">
+  <rect style="opacity:0.001"  width="22" height="22" x="32" y="4"/>
+  <path  style="fill:#fefefe;fill-opacity:1" d="M 32,8.1249993 V 23.25 H 51.937501 V 18.4375 H 54 v -5.5 H 51.937501 V 8.1249993 Z m 2.0625,2.0624997 H 49.875001 V 21.1875 H 34.0625 Z"/>
+ </g>
+ <g id="22-22-battery-ups" transform="translate(115.46001,-440.50001)">
+  <rect style="opacity:0.00100002"  width="22" height="22" x="192.54" y="404.5"/>
+  <path style="fill:#fefefe;fill-opacity:1"  d="m 197.53573,408.50504 v 15 h 12 v -15 c 0.0768,-1.06936 -1,-1 -1,-1 h -10 c 0,0 -1,-0.004 -1,1 z m 6,1 v 3 h 2 l -2,5 v -3 h -2 z m -4,10 h 1 v 2 h -1 z m 2,0 h 1 v 2 h -1 z m 2,0 h 1 v 2 h -1 z m 3,0 c 0.55229,0 1,0.44772 1,1 0,0.55228 -0.44771,1 -1,1 -0.55229,0 -1,-0.44772 -1,-1 0,-0.55228 0.44771,-1 1,-1 z"/>
+ </g>
+ <g id="22-22-Unavailable" transform="translate(93.460007,-440.50001)">
+  <rect style="opacity:0.00100002"  width="22" height="22" x="-426.5" y="170.54" transform="rotate(-90)"/>
+  <g >
+   <rect style="fill:#fec440"  width="10" height="10" x="181.54" y="415.5" ry="1"/>
+   <path style="fill:#ffffff"  d="m 188.65704,416.96951 -2.12132,2.12132 -2.12132,-2.12132 -1.41421,1.41421 2.12132,2.12132 -2.12132,2.12132 1.41421,1.41421 2.12132,-2.12132 2.12132,2.12132 1.41421,-1.41421 -2.12132,-2.12132 2.12132,-2.12132 z"/>
+  </g>
+ </g>
+ <g id="22-22-AcAdapter" transform="translate(352,-14.00001)">
+  <rect style="opacity:0.00100002"  width="22" height="22" x="0" y="-66" transform="rotate(-90)"/>
+  <path style="fill:#fefefe;fill-opacity:1"  d="m -55,-15 v 3 h 2 l -2,5 v -3 h -2 z"/>
+ </g>
+ <g id="Unavailable" transform="translate(31.999982)">
+  <rect style="opacity:0.00100002"  width="32" height="32" x="-32" y="352" transform="rotate(-90)"/>
+  <rect style="fill:#fec440"  width="14" height="14" x="368" y="16" ry="1.4"/>
+  <path style="fill:#ffffff"  d="M 378.00001,17.999996 375,21 371.99999,17.999996 370,19.999994 l 3,3.000004 -3,3.000004 L 371.99999,28 375,24.999996 378.00001,28 380,26.000002 376.99999,22.999998 380,19.999994 Z"/>
+ </g>
+ <g id="AcAdapter" transform="translate(31.999982)">
+  <rect style="opacity:0.00100002"  width="32" height="32" x="-32" y="384" transform="rotate(-90)"/>
+  <path style="fill:#fefefe;fill-opacity:1"  d="m 400,10 v 5 h 3 l -3,7 v -5 h -3 z"/>
+ </g>
+ <g id="battery-ups" transform="translate(31.999982)">
+  <rect style="opacity:0.00100002"  width="32" height="32" x="416" y="0"/>
+  <path style="fill:#fefefe;fill-opacity:1"  d="m 424.5,4.0019531 c 0,0 -1.5,-0.00591 -1.5,1.5 V 28 h 17.99414 V 5.5019531 c 0.11516,-1.6039484 -1.5,-1.5 -1.5,-1.5 z M 432,7 v 5 h 3 l -3,7 v -5 h -3 z m -6,15 h 1 v 3 h -1 z m 3,0 h 1 v 3 h -1 z m 3,0 h 1 v 3 h -1 z m 4.5,0 c 0.82844,0 1.5,0.671626 1.5,1.5 0,0.828372 -0.67156,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.671628 -1.5,-1.5 0,-0.828374 0.67157,-1.5 1.5,-1.5 z"/>
+ </g>
+ <g id="22-22-Fill100" transform="translate(-32,-40.000007)">
+  <rect style="opacity:0.001"  width="22" height="22" x="54" y="4"/>
+  <path style="fill:#54c341"  d="M 71,20 V 11 H 57 v 9 z"/>
+ </g>
+ <g id="22-22-Fill90" transform="translate(-32,-40.000007)">
+  <rect style="opacity:0.001"  width="22" height="22" x="76" y="4"/>
+  <path style="fill:#54c341"  d="M 91,20 V 11 H 79 v 9 z"/>
+ </g>
+ <g id="22-22-Fill80" transform="translate(-32,-40.000007)">
+  <rect style="opacity:0.001"  width="22" height="22" x="98" y="4"/>
+  <path style="fill:#54c341"  d="m 111,20 v -9 h -10 v 9 z"/>
+ </g>
+ <g id="22-22-Fill70" transform="translate(-32,-40.000007)">
+  <rect style="opacity:0.001"  width="22" height="22" x="120" y="4"/>
+  <path style="fill:#54c341"  d="m 132,20 v -9 h -9 v 9 z"/>
+ </g>
+ <g id="22-22-Fill60" transform="translate(-32,-40.000007)">
+  <rect style="opacity:0.001"  width="22" height="22" x="142" y="4"/>
+  <path style="fill:#54c341"  d="m 152,20 v -9 h -7 v 9 z"/>
+ </g>
+ <g id="22-22-Fill50" transform="translate(-32,-40.000007)">
+  <rect style="opacity:0.001"  width="22" height="22" x="164" y="4"/>
+  <path style="fill:#54c341"  d="m 173,20 v -9 h -6 v 9 z"/>
+ </g>
+ <g id="22-22-Fill40" transform="translate(-32,-40.000007)">
+  <rect style="opacity:0.001"  width="22" height="22" x="186" y="4"/>
+  <path style="fill:#54c341"  d="m 194,20 v -9 h -5 v 9 z"/>
+ </g>
+ <g id="22-22-Fill30" transform="translate(-32,-40.000007)">
+  <rect style="opacity:0.001"  width="22" height="22" x="208" y="4"/>
+  <path style="fill:#54c341"  d="m 215,20 v -9 h -4 v 9 z"/>
+ </g>
+ <g id="22-22-Fill20" transform="translate(-32,-40.000007)">
+  <rect style="opacity:0.001"  width="22" height="22" x="230" y="4"/>
+  <path style="fill:#54c341"  d="m 236,20 v -9 h -3 v 9 z"/>
+ </g>
+ <g id="22-22-Fill10" transform="translate(-32,-40.000007)">
+  <rect style="opacity:0.001"  width="22" height="22" x="252" y="4"/>
+  <path style="fill:#d94126"  d="m 257,20 v -9 h -2 v 9 z"/>
+ </g>
+ <g id="22-22-Fill0" transform="translate(-32,-40.000007)">
+  <rect style="opacity:0.001"  width="22" height="22" x="274" y="4"/>
+  <path  style="fill:#d94126;fill-opacity:1" d="M 274,7.9999989 V 22.999999 h 20 v -5 h 2 v -5 h -2 V 7.9999989 Z m 2,2.0000004 h 16 V 20.999999 h -16 z"/>
+ </g>
+ <g id="22-22-Battery" transform="translate(-32,-40.000007)">
+  <rect style="opacity:0.001"  width="22" height="22" x="32" y="4"/>
+  <path  style="fill:#fefefe;fill-opacity:1" d="M 32,7.9999989 V 22.999999 h 20 v -5 h 2 v -5 H 52 V 7.9999989 Z m 2,2.0000004 H 50 V 20.999999 H 34 Z"/>
+ </g>
+ <g id="Fill100" transform="matrix(1.4545454,0,0,1.4545454,-46.545453,-5.8181804)">
+  <rect style="opacity:0.001"  width="22" height="22" x="54" y="4"/>
+  <path style="fill:#54c341"  d="M 70.500002,19.8125 V 11.562499 H 57.437501 V 19.8125 Z"/>
+ </g>
+ <g id="Fill90" transform="matrix(1.4545454,0,0,1.4545454,-46.545453,-5.8181804)">
+  <rect style="opacity:0.001"  width="22" height="22" x="76" y="4"/>
+  <path style="fill:#54c341"  d="m 91.125002,19.8125 v -8.250001 h -11.6875 V 19.8125 Z"/>
+ </g>
+ <g id="Fill80" transform="matrix(1.4545454,0,0,1.4545454,-46.545453,-5.8181804)">
+  <rect style="opacity:0.001"  width="22" height="22" x="98" y="4"/>
+  <path style="fill:#54c341"  d="m 111.0625,19.8125 v -8.250001 h -9.625 V 19.8125 Z"/>
+ </g>
+ <g id="Fill70" transform="matrix(1.4545454,0,0,1.4545454,-46.545453,-5.8181804)">
+  <rect style="opacity:0.001"  width="22" height="22" x="120" y="4"/>
+  <path style="fill:#54c341"  d="m 131.6875,19.8125 v -8.250001 h -8.25 V 19.8125 Z"/>
+ </g>
+ <g id="Fill60" transform="matrix(1.4545454,0,0,1.4545454,-46.545453,-5.8181804)">
+  <rect style="opacity:0.001"  width="22" height="22" x="142" y="4"/>
+  <path style="fill:#54c341"  d="m 152.3125,19.8125 v -8.250001 h -6.875 V 19.8125 Z"/>
+ </g>
+ <g id="Fill50" transform="matrix(1.4545454,0,0,1.4545454,-46.545453,-5.8181804)">
+  <rect style="opacity:0.001"  width="22" height="22" x="164" y="4"/>
+  <path style="fill:#54c341"  d="m 172.93751,19.8125 v -8.250001 h -5.5 V 19.8125 Z"/>
+ </g>
+ <g id="Fill40" transform="matrix(1.4545454,0,0,1.4545454,-46.545453,-5.8181804)">
+  <rect style="opacity:0.001"  width="22" height="22" x="186" y="4"/>
+  <path style="fill:#54c341"  d="m 194.25001,19.8125 v -8.250001 h -4.8125 V 19.8125 Z"/>
+ </g>
+ <g id="Fill30" transform="matrix(1.4545454,0,0,1.4545454,-46.545453,-5.8181804)">
+  <rect style="opacity:0.001"  width="22" height="22" x="208" y="4"/>
+  <path style="fill:#54c341"  d="m 214.87501,19.8125 v -8.250001 h -3.4375 V 19.8125 Z"/>
+ </g>
+ <g id="Fill20" transform="matrix(1.4545454,0,0,1.4545454,-46.545453,-5.8181804)">
+  <rect style="opacity:0.001"  width="22" height="22" x="230" y="4"/>
+  <path style="fill:#54c341"  d="m 236.18751,19.8125 v -8.250001 h -2.75 V 19.8125 Z"/>
+ </g>
+ <g id="Fill10" transform="matrix(1.4545454,0,0,1.4545454,-46.545453,-5.8181804)">
+  <rect style="opacity:0.001"  width="22" height="22" x="252" y="4"/>
+  <path style="fill:#d94126"  d="m 256.81251,19.8125 v -8.250001 h -1.375 V 19.8125 Z"/>
+ </g>
+ <g id="Fill0" transform="matrix(1.4545454,0,0,1.4545454,305.45453,-5.818179)">
+  <rect style="opacity:0.001"  width="22" height="22" x="32" y="4"/>
+  <path  style="fill:#d94126;fill-opacity:1" d="M 32,8.1249993 V 23.25 H 51.937501 V 18.4375 H 54 v -5.5 H 51.937501 V 8.1249993 Z m 2.0625,2.0624997 H 49.875001 V 21.1875 H 34.0625 Z"/>
+ </g>
+</svg>

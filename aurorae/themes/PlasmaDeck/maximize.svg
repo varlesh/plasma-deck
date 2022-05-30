@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <g id="pressed-center" transform="matrix(1.0909091,0,0,1.0909091,-2.1818182,0)">
+  <rect style="opacity:0.001" width="22" height="22" x="46" y="0"/>
+  <path style="opacity:1;fill:#59bf40" transform="matrix(0.91666666,0,0,0.91666666,2,0)" d="M 60 2 A 10 10 0 0 0 50 12 A 10 10 0 0 0 60 22 A 10 10 0 0 0 70 12 A 10 10 0 0 0 60 2 z M 56 8 L 64 8 L 64 16 L 56 16 L 56 8 z M 58 10 L 58 14 L 62 14 L 62 10 L 58 10 z"/>
+ </g>
+ <g id="hover-center" transform="matrix(1.0909091,0,0,1.0909091,-1.0909091,0)">
+  <rect style="opacity:0.001" width="22" height="22" x="23" y="0"/>
+  <path style="opacity:1;fill:#59bf40" transform="matrix(0.91666666,0,0,0.91666666,1,0)" d="M 36 2 A 10 10 0 0 0 26 12 A 10 10 0 0 0 36 22 A 10 10 0 0 0 46 12 A 10 10 0 0 0 36 2 z M 32 8 L 40 8 L 40 16 L 32 16 L 32 8 z M 34 10 L 34 14 L 38 14 L 38 10 L 34 10 z"/>
+ </g>
+ <g id="inactive-center" transform="matrix(1.0909091,0,0,1.0909091,72.000001,0)">
+  <rect style="opacity:0.001" width="22" height="22" x="0" y="0"/>
+  <path style="opacity:0.3;fill:#fefefe;fill-opacity:1" d="m 7.3333334,7.3333333 c 0,2.4444446 0,4.8888887 0,7.3333337 h 7.3333336 c 0,-2.444445 0,-4.8888891 0,-7.3333337 z m 1.8333333,1.8333333 h 3.6666663 c 0,1.2222224 0,2.4444454 0,3.6666674 H 9.1666667 c 0,-1.222222 0,-2.444445 0,-3.6666674 z"/>
+ </g>
+ <g id="deactivated-center" transform="matrix(1.0909091,0,0,1.0909091,96.000001,0)">
+  <rect style="opacity:0.001" width="22" height="22" x="0" y="0"/>
+  <path style="opacity:0.3;fill:#fefefe;fill-opacity:1" d="m 7.3333333,7.3333333 c 0,2.4444446 0,4.8888887 0,7.3333337 h 7.3333337 c 0,-2.444445 0,-4.8888891 0,-7.3333337 z m 1.8333334,1.8333333 h 3.6666663 c 0,1.2222224 0,2.4444454 0,3.6666674 H 9.1666667 c 0,-1.222222 0,-2.444445 0,-3.6666674 z"/>
+ </g>
+ <g id="active-center" transform="matrix(1.0909091,0,0,1.0909091,-25.090909,0)">
+  <rect style="opacity:0.00100002" width="22" height="22" x="23" y="0"/>
+  <path style="opacity:1;fill:#fefefe" transform="matrix(0.91666666,0,0,0.91666666,23,0)" d="M 12 2 A 10 10 0 0 0 2 12 A 10 10 0 0 0 12 22 A 10 10 0 0 0 22 12 A 10 10 0 0 0 12 2 z M 8 8 L 16 8 L 16 16 L 8 16 L 8 8 z M 10 10 L 10 14 L 14 14 L 14 10 L 10 10 z"/>
+ </g>
+</svg>
