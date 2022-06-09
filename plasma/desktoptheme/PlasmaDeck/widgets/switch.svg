@@ -1,48 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg59" width="90" height="55" version="1.0">
- <defs id="defs4">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="55" version="1.0">
+ <defs>
   <linearGradient id="linearGradient1689">
-   <stop style="stop-color:#000000;stop-opacity:1" id="stop1685" offset="0"/>
-   <stop style="stop-color:#000000;stop-opacity:0" id="stop1687" offset="1"/>
+   <stop style="stop-color:#000000" offset="0"/>
+   <stop style="stop-color:#000000;stop-opacity:0" offset="1"/>
   </linearGradient>
   <radialGradient id="radialGradient1691" cx="-32.09" cy="8.999" r="10" fx="-32.09" fy="8.999" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1689"/>
   <radialGradient id="radialGradient1693" cx="33" cy="45" r="11" fx="33" fy="45" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1689"/>
   <radialGradient id="radialGradient1695" cx="55" cy="45" r="11" fx="55" fy="45" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1689"/>
  </defs>
  <g id="handle-shadow" transform="matrix(1.1,0,0,1.1,112.299,35.101)">
-  <rect style="opacity:0.001" id="rect16" width="20" height="20" x="-42.09" y="-1.91"/>
+  <rect style="opacity:0.001" width="20" height="20" x="-42.09" y="-1.91"/>
  </g>
- <path id="groove-bottomright" style="opacity:1;fill:#3d4450;fill-opacity:1;stroke-width:0.727273" d="m 20.000002,24 v 8 c 8.000001,0 8.000001,-8 8.000001,-8 z"/>
- <path id="groove-right" style="opacity:1;fill:#3d4450;fill-opacity:1;stroke-width:0.727273" d="m 20,14 v 8 h 8.000001 v -8 z"/>
- <path id="groove-topright" style="opacity:1;fill:#3d4450;fill-opacity:1;stroke-width:0.727273" d="m 20,4 v 8 h 8.000001 C 28.000001,4 20,4 20,4 Z"/>
- <path id="groove-bottomleft" style="opacity:1;fill:#3d4450;fill-opacity:1;stroke-width:0.727273" d="m 2.8321533e-6,24 c 0,0 0,8 8.0000001678467,8 v -8 z"/>
- <path id="groove-left" style="opacity:1;fill:#3d4450;fill-opacity:1;stroke-width:0.727273" d="m 8.3215332e-7,14 v 8 H 8.000001 v -8 z"/>
- <path id="groove-topleft" style="opacity:1;fill:#3d4450;fill-opacity:1;stroke-width:0.727273" d="M 8.000001,4 C 8.000001,4 8.3215332e-7,4 8.3215332e-7,12 H 8.000001 Z"/>
- <path id="groove-bottom" style="opacity:1;fill:#3d4450;fill-opacity:1;stroke-width:0.727273" d="m 10.000002,24 v 8 h 7.999999 v -8 z"/>
- <path id="groove-center" style="opacity:1;fill:#3d4450;fill-opacity:1;stroke-width:0.727273" d="M 17.999999,14 H 10 v 8 h 7.999999 z"/>
- <path id="groove-top" style="opacity:1;fill:#3d4450;fill-opacity:1;stroke-width:0.727273" d="m 10,4 v 8 h 7.999999 V 4 Z"/>
- <path id="groove-highlight-bottomright" style="fill:#1a9fff;fill-opacity:1;stroke-width:0.727273" d="m 50,24 v 8 c 8.000002,0 8.000002,-8 8.000002,-8 z"/>
- <path id="groove-highlight-right" style="fill:#1a9fff;fill-opacity:1;stroke-width:0.727273" d="m 49.999998,14 v 8 H 58 v -8 z"/>
- <path id="groove-highlight-topright" style="fill:#1a9fff;fill-opacity:1;stroke-width:0.727273" d="m 49.999998,4 v 8 H 58 c 0,0 0,-8 -8.000002,-8 z"/>
- <path id="groove-highlight-bottomleft" style="fill:#1a9fff;fill-opacity:1;stroke-width:0.727273" d="m 30.000002,24 c 0,0 0,8 7.999999,8 v -8 z"/>
- <path id="groove-highlight-left" style="fill:#1a9fff;fill-opacity:1;stroke-width:0.727273" d="m 30,14 v 8 h 7.999999 v -8 z"/>
- <path id="groove-highlight-topleft" style="fill:#1a9fff;fill-opacity:1;stroke-width:0.727273" d="M 37.999999,4 C 30,4 30,12 30,12 h 7.999999 z"/>
- <path id="groove-highlight-bottom" style="fill:#1a9fff;fill-opacity:1;stroke-width:0.727273" d="m 40.000001,24 v 8 H 48 v -8 z"/>
- <path id="groove-highlight-center" style="fill:#1a9fff;fill-opacity:1;stroke-width:0.727273" d="m 47.999998,14 h -7.999999 v 8 h 7.999999 z"/>
- <path id="groove-highlight-top" style="fill:#1a9fff;fill-opacity:1;stroke-width:0.727273" d="m 39.999999,4 v 8 h 7.999999 V 4 Z"/>
- <rect style="fill:#ff0000;stroke-width:0.866025" id="hint-handle-size" width="18" height="18" x="66" y="10"/>
+ <path id="groove-bottomright" style="fill:#3d4450" d="m 20.000002,24 v 8 c 8.000001,0 8.000001,-8 8.000001,-8 z"/>
+ <path id="groove-right" style="fill:#3d4450" d="m 20,14 v 8 h 8.000001 v -8 z"/>
+ <path id="groove-topright" style="fill:#3d4450" d="m 20,4 v 8 h 8.000001 C 28.000001,4 20,4 20,4 Z"/>
+ <path id="groove-bottomleft" style="fill:#3d4450" d="m 2.8321533e-6,24 c 0,0 0,8 8.0000001678467,8 v -8 z"/>
+ <path id="groove-left" style="fill:#3d4450" d="m 8.3215332e-7,14 v 8 H 8.000001 v -8 z"/>
+ <path id="groove-topleft" style="fill:#3d4450" d="M 8.000001,4 C 8.000001,4 8.3215332e-7,4 8.3215332e-7,12 H 8.000001 Z"/>
+ <path id="groove-bottom" style="fill:#3d4450" d="m 10.000002,24 v 8 h 7.999999 v -8 z"/>
+ <path id="groove-center" style="fill:#3d4450" d="M 17.999999,14 H 10 v 8 h 7.999999 z"/>
+ <path id="groove-top" style="fill:#3d4450" d="m 10,4 v 8 h 7.999999 V 4 Z"/>
+ <path id="groove-highlight-bottomright" style="fill:#1a9fff" d="m 50,24 v 8 c 8.000002,0 8.000002,-8 8.000002,-8 z"/>
+ <path id="groove-highlight-right" style="fill:#1a9fff" d="m 49.999998,14 v 8 H 58 v -8 z"/>
+ <path id="groove-highlight-topright" style="fill:#1a9fff" d="m 49.999998,4 v 8 H 58 c 0,0 0,-8 -8.000002,-8 z"/>
+ <path id="groove-highlight-bottomleft" style="fill:#1a9fff" d="m 30.000002,24 c 0,0 0,8 7.999999,8 v -8 z"/>
+ <path id="groove-highlight-left" style="fill:#1a9fff" d="m 30,14 v 8 h 7.999999 v -8 z"/>
+ <path id="groove-highlight-topleft" style="fill:#1a9fff" d="M 37.999999,4 C 30,4 30,12 30,12 h 7.999999 z"/>
+ <path id="groove-highlight-bottom" style="fill:#1a9fff" d="m 40.000001,24 v 8 H 48 v -8 z"/>
+ <path id="groove-highlight-center" style="fill:#1a9fff" d="m 47.999998,14 h -7.999999 v 8 h 7.999999 z"/>
+ <path id="groove-highlight-top" style="fill:#1a9fff" d="m 39.999999,4 v 8 h 7.999999 V 4 Z"/>
+ <rect id="hint-handle-size" style="fill:#ff0000" width="18" height="18" x="66" y="10"/>
  <g id="handle" transform="matrix(1.1,0,0,1.1,46.299171,35.101)">
-  <rect style="opacity:0.001" id="rect38" width="20" height="20" x="-42.09" y="-1.91"/>
-  <path style="opacity:1;fill:url(#radialGradient1691);fill-opacity:1;stroke-width:1.15789" id="path40" d="M -22.090156,8.0899997 A 9.9999996,9.9999996 0 0 1 -32.090155,18.09 a 9.9999996,9.9999996 0 0 1 -10,-10.0000003 9.9999996,9.9999996 0 0 1 10,-9.9999997 9.9999996,9.9999996 0 0 1 9.999999,9.9999997 z"/>
-  <path style="fill:#fefefe;fill-opacity:1" id="path42" transform="matrix(1.0227273,0,0,1.0227273,0.63711821,-0.0918182)" d="m -24,8 a 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 8,8 0 0 1 8,8 z"/>
+  <rect style="opacity:0.001" width="20" height="20" x="-42.09" y="-1.91"/>
+  <path style="fill:url(#radialGradient1691)" d="M -22.090156,8.0899997 A 9.9999996,9.9999996 0 0 1 -32.090155,18.09 a 9.9999996,9.9999996 0 0 1 -10,-10.0000003 9.9999996,9.9999996 0 0 1 10,-9.9999997 9.9999996,9.9999996 0 0 1 9.999999,9.9999997 z"/>
+  <path style="fill:#fefefe" transform="matrix(1.0227273,0,0,1.0227273,0.63711821,-0.0918182)" d="m -24,8 a 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 8,8 0 0 1 8,8 z"/>
  </g>
  <g id="handle-hover" transform="matrix(1.1,0,0,1.1,68.299171,35.101)">
-  <rect style="opacity:0.001" id="rect45" width="20" height="20" x="-42.09" y="-1.91"/>
-  <path id="path1445" style="opacity:1;fill:url(#radialGradient1693);fill-opacity:1;stroke-width:1.15789" transform="matrix(0.90909091,0,0,0.90909091,-62.090155,-31.91)" d="M 33 33 A 11 11 0 0 0 22 44 A 11 11 0 0 0 33 55 A 11 11 0 0 0 44 44 A 11 11 0 0 0 33 33 z"/>
-  <path style="opacity:1;fill:#fefefe;fill-opacity:1" id="path49" transform="matrix(1.0227273,0,0,1.0227273,0.63711821,-0.0918182)" d="m -24,8 a 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 8,8 0 0 1 8,8 z"/>
+  <rect style="opacity:0.001" width="20" height="20" x="-42.09" y="-1.91"/>
+  <path style="fill:url(#radialGradient1693)" transform="matrix(0.90909091,0,0,0.90909091,-62.090155,-31.91)" d="M 33 33 A 11 11 0 0 0 22 44 A 11 11 0 0 0 33 55 A 11 11 0 0 0 44 44 A 11 11 0 0 0 33 33 z"/>
+  <path style="fill:#fefefe" transform="matrix(1.0227273,0,0,1.0227273,0.63711821,-0.0918182)" d="m -24,8 a 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 8,8 0 0 1 8,8 z"/>
  </g>
  <g id="handle-focus" transform="matrix(1.1,0,0,1.1,90.299171,35.101)">
-  <rect style="opacity:0.001" id="rect52" width="20" height="20" x="-42.09" y="-1.91"/>
-  <path id="path1568" style="opacity:1;fill:url(#radialGradient1695);fill-opacity:1;stroke-width:1.15789" transform="matrix(0.90909091,0,0,0.90909091,-82.090155,-31.91)" d="M 55 33 A 11 11 0 0 0 44 44 A 11 11 0 0 0 55 55 A 11 11 0 0 0 66 44 A 11 11 0 0 0 55 33 z"/>
-  <path style="opacity:1;fill:#fefefe;fill-opacity:1" id="path56" transform="matrix(1.0227273,0,0,1.0227273,0.63711821,-0.0918182)" d="m -24,8 a 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 8,8 0 0 1 8,8 z"/>
+  <rect style="opacity:0.001" width="20" height="20" x="-42.09" y="-1.91"/>
+  <path style="fill:url(#radialGradient1695)" transform="matrix(0.90909091,0,0,0.90909091,-82.090155,-31.91)" d="M 55 33 A 11 11 0 0 0 44 44 A 11 11 0 0 0 55 55 A 11 11 0 0 0 66 44 A 11 11 0 0 0 55 33 z"/>
+  <path style="fill:#fefefe" transform="matrix(1.0227273,0,0,1.0227273,0.63711821,-0.0918182)" d="m -24,8 a 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 8,8 0 0 1 8,8 z"/>
  </g>
 </svg>

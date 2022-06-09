@@ -1,60 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg60" width="76" height="66" version="1.1">
- <defs id="defs64">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76" height="66" version="1.1">
+ <defs>
   <linearGradient id="linearGradient1838">
-   <stop style="stop-color:#000000;stop-opacity:1" id="stop1834" offset="0"/>
-   <stop style="stop-color:#000000;stop-opacity:0" id="stop1836" offset="1"/>
+   <stop style="stop-color:#000000" offset="0"/>
+   <stop style="stop-color:#000000;stop-opacity:0" offset="1"/>
   </linearGradient>
   <radialGradient id="radialGradient1840" cx="41" cy="21.455" r="16" fx="41" fy="21.455" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1838"/>
   <radialGradient id="radialGradient1842" cx="41" cy="21.455" r="16" fx="41" fy="21.455" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1838"/>
  </defs>
  <rect id="hint-tile-center" style="fill:#ff00ff" width="2" height="2" x="0" y="36"/>
- <path id="groove-bottomright" style="opacity:0.1;fill:#ffffff;stroke-width:2" d="m 8,53 v 2 h 2 v -2 z"/>
- <path id="groove-right" style="opacity:0.1;fill:#ffffff;stroke-width:2" d="m 8,50 v 2 h 2 v -2 z"/>
- <path id="groove-topright" style="opacity:0.1;fill:#ffffff;stroke-width:2" d="m 8,47 v 2 h 2 v -2 z"/>
- <path id="groove-bottomleft" style="opacity:0.1;fill:#ffffff;stroke-width:2" d="m 0,53 v 2 h 2 v -2 z"/>
- <path id="groove-left" style="opacity:0.1;fill:#ffffff;stroke-width:2" d="m 0,50 v 2 h 2 v -2 z"/>
- <path id="groove-topleft" style="opacity:0.1;fill:#ffffff;stroke-width:2" d="M 2,47 H 0 v 2 h 2 z"/>
- <path id="groove-bottom" style="opacity:0.1;fill:#ffffff;stroke-width:2" d="m 4,53 v 2 h 2 v -2 z"/>
- <path id="groove-center" style="opacity:0.1;fill:#ffffff;stroke-width:2" d="M 6,50 H 4 v 2 h 2 z"/>
- <path id="groove-top" style="opacity:0.1;fill:#ffffff;stroke-width:2" d="m 4,47 v 2 h 2 v -2 z"/>
- <path id="groove-highlight-bottomright" style="fill:#1a9fff;fill-opacity:1;stroke-width:2" d="m 8,64 v 2 h 2 v -2 z"/>
- <path id="groove-highlight-right" style="fill:#1a9fff;fill-opacity:1;stroke-width:2" d="m 8,61 v 2 h 2 v -2 z"/>
- <path id="groove-highlight-topright" style="fill:#1a9fff;fill-opacity:1;stroke-width:2" d="m 8,58 v 2 h 2 v -2 z"/>
- <path id="groove-highlight-bottomleft" style="fill:#1a9fff;fill-opacity:1;stroke-width:2" d="m 0,64 v 2 h 2 v -2 z"/>
- <path id="groove-highlight-left" style="fill:#1a9fff;fill-opacity:1;stroke-width:2" d="m 0,61 v 2 h 2 v -2 z"/>
- <path id="groove-highlight-topleft" style="fill:#1a9fff;fill-opacity:1;stroke-width:2" d="M 2,58 H 0 v 2 h 2 z"/>
- <path id="groove-highlight-bottom" style="fill:#1a9fff;fill-opacity:1;stroke-width:2" d="m 4,64 v 2 h 2 v -2 z"/>
- <path id="groove-highlight-center" style="fill:#1a9fff;fill-opacity:1;stroke-width:2" d="M 6,61 H 4 v 2 h 2 z"/>
- <path id="groove-highlight-top" style="fill:#1a9fff;fill-opacity:1;stroke-width:2" d="m 4,58 v 2 h 2 v -2 z"/>
+ <path id="groove-bottomright" style="opacity:0.1;fill:#ffffff" d="m 8,53 v 2 h 2 v -2 z"/>
+ <path id="groove-right" style="opacity:0.1;fill:#ffffff" d="m 8,50 v 2 h 2 v -2 z"/>
+ <path id="groove-topright" style="opacity:0.1;fill:#ffffff" d="m 8,47 v 2 h 2 v -2 z"/>
+ <path id="groove-bottomleft" style="opacity:0.1;fill:#ffffff" d="m 0,53 v 2 h 2 v -2 z"/>
+ <path id="groove-left" style="opacity:0.1;fill:#ffffff" d="m 0,50 v 2 h 2 v -2 z"/>
+ <path id="groove-topleft" style="opacity:0.1;fill:#ffffff" d="M 2,47 H 0 v 2 h 2 z"/>
+ <path id="groove-bottom" style="opacity:0.1;fill:#ffffff" d="m 4,53 v 2 h 2 v -2 z"/>
+ <path id="groove-center" style="opacity:0.1;fill:#ffffff" d="M 6,50 H 4 v 2 h 2 z"/>
+ <path id="groove-top" style="opacity:0.1;fill:#ffffff" d="m 4,47 v 2 h 2 v -2 z"/>
+ <path id="groove-highlight-bottomright" style="fill:#1a9fff" d="m 8,64 v 2 h 2 v -2 z"/>
+ <path id="groove-highlight-right" style="fill:#1a9fff" d="m 8,61 v 2 h 2 v -2 z"/>
+ <path id="groove-highlight-topright" style="fill:#1a9fff" d="m 8,58 v 2 h 2 v -2 z"/>
+ <path id="groove-highlight-bottomleft" style="fill:#1a9fff" d="m 0,64 v 2 h 2 v -2 z"/>
+ <path id="groove-highlight-left" style="fill:#1a9fff" d="m 0,61 v 2 h 2 v -2 z"/>
+ <path id="groove-highlight-topleft" style="fill:#1a9fff" d="M 2,58 H 0 v 2 h 2 z"/>
+ <path id="groove-highlight-bottom" style="fill:#1a9fff" d="m 4,64 v 2 h 2 v -2 z"/>
+ <path id="groove-highlight-center" style="fill:#1a9fff" d="M 6,61 H 4 v 2 h 2 z"/>
+ <path id="groove-highlight-top" style="fill:#1a9fff" d="m 4,58 v 2 h 2 v -2 z"/>
  <g id="horizontal-slider-hover" transform="matrix(0.6875,0,0,0.6875,14.8125,41.25)">
-  <rect style="opacity:0" id="rect26" width="32" height="32" x="25" y="4"/>
-  <circle style="opacity:1;fill:#141a21;fill-opacity:1" id="circle28" cx="41" cy="20" r="16"/>
-  <circle style="fill:#fefefe;stroke-width:1.79993;fill-opacity:1" id="circle30" cx="41" cy="20" r="13.091"/>
+  <rect style="opacity:0" width="32" height="32" x="25" y="4"/>
+  <circle style="fill:#141a21" cx="41" cy="20" r="16"/>
+  <circle style="fill:#fefefe" cx="41" cy="20" r="13.091"/>
  </g>
  <g id="horizontal-slider-focus" transform="matrix(0.6875,0,0,0.6875,36.8125,41.25)">
-  <rect style="opacity:0" id="rect33" width="32" height="32" x="25" y="4"/>
-  <circle style="opacity:1;fill:#141a21;fill-opacity:1" id="circle35" cx="41" cy="20" r="16"/>
-  <circle style="fill:#fefefe;stroke-width:1.79993;fill-opacity:1" id="circle37" cx="41" cy="20" r="13.091"/>
+  <rect style="opacity:0" width="32" height="32" x="25" y="4"/>
+  <circle style="fill:#141a21" cx="41" cy="20" r="16"/>
+  <circle style="fill:#fefefe" cx="41" cy="20" r="13.091"/>
  </g>
  <g id="vertical-slider-hover" transform="matrix(0.6875,0,0,0.6875,14.8125,19.25)">
-  <rect style="opacity:0" id="rect45" width="32" height="32" x="25" y="4"/>
-  <circle style="opacity:1;fill:#141a21;fill-opacity:1" id="circle47" cx="41" cy="20" r="16"/>
-  <circle style="fill:#fefefe;stroke-width:1.79993;fill-opacity:1" id="circle49" cx="41" cy="20" r="13.091"/>
+  <rect style="opacity:0" width="32" height="32" x="25" y="4"/>
+  <circle style="fill:#141a21" cx="41" cy="20" r="16"/>
+  <circle style="fill:#fefefe" cx="41" cy="20" r="13.091"/>
  </g>
  <g id="vertical-slider-focus" transform="matrix(0.6875,0,0,0.6875,36.8125,19.25)">
-  <rect style="opacity:0" id="rect52" width="32" height="32" x="25" y="4"/>
-  <circle style="opacity:1;fill:#141a21;fill-opacity:1" id="circle54" cx="41" cy="20" r="16"/>
-  <circle style="fill:#fefefe;stroke-width:1.79993;fill-opacity:1" id="circle56" cx="41" cy="20" r="13.091"/>
+  <rect style="opacity:0" width="32" height="32" x="25" y="4"/>
+  <circle style="fill:#141a21" cx="41" cy="20" r="16"/>
+  <circle style="fill:#fefefe" cx="41" cy="20" r="13.091"/>
  </g>
  <circle id="hint-handle-size" style="fill:#ff00ff" cx="65" cy="11" r="11"/>
  <g id="horizontal-slider-handle" transform="matrix(0.6875,0,0,0.6875,-7.1875,41.25)">
-  <rect style="opacity:0" id="rect1694" width="32" height="32" x="25" y="4"/>
-  <circle style="opacity:1;fill:url(#radialGradient1842);fill-opacity:1" id="circle1696" cx="41" cy="20" r="16"/>
-  <circle style="fill:#fefefe;stroke-width:1.79993;fill-opacity:1" id="circle1698" cx="41" cy="20" r="13.091"/>
+  <rect style="opacity:0" width="32" height="32" x="25" y="4"/>
+  <circle style="fill:url(#radialGradient1842)" cx="41" cy="20" r="16"/>
+  <circle style="fill:#fefefe" cx="41" cy="20" r="13.091"/>
  </g>
  <g id="vertical-slider-handle" transform="matrix(0.6875,0,0,0.6875,-7.1875,19.25)">
-  <rect style="opacity:0" id="rect1702" width="32" height="32" x="25" y="4"/>
-  <circle style="opacity:1;fill:url(#radialGradient1840);fill-opacity:1" id="circle1704" cx="41" cy="20" r="16"/>
-  <circle style="fill:#fefefe;stroke-width:1.79993;fill-opacity:1" id="circle1706" cx="41" cy="20" r="13.091"/>
+  <rect style="opacity:0" width="32" height="32" x="25" y="4"/>
+  <circle style="fill:url(#radialGradient1840)" cx="41" cy="20" r="16"/>
+  <circle style="fill:#fefefe" cx="41" cy="20" r="13.091"/>
  </g>
 </svg>

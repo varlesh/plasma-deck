@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
  <g id="hover-center" transform="matrix(1.0909091,0,0,-1.0909091,-1.0909091,24)">
   <rect style="opacity:0.00100002" width="22" height="22" x="23" y="0"/>
-  <path style="opacity:1;fill:#fe40d0" transform="matrix(0.91666666,0,0,0.91666666,1,0)" d="M 36,2 A 10,10 0 0 0 26,12 10,10 0 0 0 36,22 10,10 0 0 0 46,12 10,10 0 0 0 36,2 Z m 0,6 5,6 H 31 Z"/>
+  <path style="fill:#fe40d0" transform="matrix(0.91666666,0,0,0.91666666,1,0)" d="M 36,2 A 10,10 0 0 0 26,12 10,10 0 0 0 36,22 10,10 0 0 0 46,12 10,10 0 0 0 36,2 Z m 0,6 5,6 H 31 Z"/>
  </g>
  <g id="pressed-center" transform="matrix(1.0909091,0,0,-1.0909091,-2.1818182,24)">
   <rect style="opacity:0.00100002" width="22" height="22" x="46" y="0"/>
-  <path style="opacity:1;fill:#fe40d0" transform="matrix(0.91666666,0,0,0.91666666,2,0)" d="M 60,2 A 10,10 0 0 0 50,12 10,10 0 0 0 60,22 10,10 0 0 0 70,12 10,10 0 0 0 60,2 Z m 0,6 5,6 H 55 c 1.666668,-2 3.333333,-4 5,-6 z"/>
+  <path style="fill:#fe40d0" transform="matrix(0.91666666,0,0,0.91666666,2,0)" d="M 60,2 A 10,10 0 0 0 50,12 10,10 0 0 0 60,22 10,10 0 0 0 70,12 10,10 0 0 0 60,2 Z m 0,6 5,6 H 55 c 1.666668,-2 3.333333,-4 5,-6 z"/>
  </g>
  <g id="inactive-center" transform="matrix(1.0909091,0,0,-1.0909091,-3.2727273,24)">
   <rect style="opacity:0.00100002" width="22" height="22" x="69" y="0"/>
-  <path style="opacity:0.3;fill:#fefefe;fill-opacity:1" d="M 80,7.3333332 C 81.527778,9.166666 83.055556,11 84.583333,12.833333 c -3.055555,0 -6.111111,0 -9.166666,0 C 76.944445,11 78.472222,9.1666666 80,7.3333332 Z"/>
+  <path style="opacity:0.3;fill:#fefefe" d="M 80,7.3333332 C 81.527778,9.166666 83.055556,11 84.583333,12.833333 c -3.055555,0 -6.111111,0 -9.166666,0 C 76.944445,11 78.472222,9.1666666 80,7.3333332 Z"/>
  </g>
  <g id="deactivated-center" transform="matrix(1.0909091,0,0,-1.0909091,-4.3636364,24)">
   <rect style="opacity:0.00100002" width="22" height="22" x="92" y="0"/>
-  <path style="opacity:0.3;fill:#fefefe;fill-opacity:1" d="m 103,7.3333332 4.58333,5.4999998 h -9.166664 z"/>
+  <path style="opacity:0.3;fill:#fefefe" d="m 103,7.3333332 4.58333,5.4999998 h -9.166664 z"/>
  </g>
  <g id="active-center" transform="matrix(1.0909091,0,0,-1.0909091,-25.090909,24)">
   <rect style="opacity:0.00100002" width="22" height="22" x="23" y="0"/>
-  <path style="opacity:1;fill:#fefefe" transform="matrix(0.91666666,0,0,0.91666666,23,0)" d="M 12,2 A 10,10 0 0 0 2,12 10,10 0 0 0 12,22 10,10 0 0 0 22,12 10,10 0 0 0 12,2 Z m 0,6 5,6 H 7 Z"/>
+  <path style="fill:#fefefe" transform="matrix(0.91666666,0,0,0.91666666,23,0)" d="M 12,2 A 10,10 0 0 0 2,12 10,10 0 0 0 12,22 10,10 0 0 0 22,12 10,10 0 0 0 12,2 Z m 0,6 5,6 H 7 Z"/>
  </g>
 </svg>

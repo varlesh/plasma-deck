@@ -1,109 +1,85 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1">
  <rect id="hint-stretch-borders" style="fill:#ff00ff" width="5" height="5" x="123" y="1"/>
  <g id="north-center" transform="translate(-152,-4)">
-  <path style="fill:#1a9fff" d="m 264,112 0,5 5,0 0,-5 -5,0 z"/>
+  <path style="fill:#010101" d="m 264,112 0,5 5,0 0,-5 -5,0 z"/>
  </g>
  <g id="north-top" style="fill:url(#linearGradient4297)" transform="translate(-152,-5)">
-  <path style="fill:#1a9fff" transform="translate(152,5)" d="m 112,103 0,1 0,1 0,2 5,0 0,-2 0,-1 0,-1 -5,0 z"/>
+  <path style="fill:#010101" transform="translate(152,5)" d="m 112,103 0,1 0,1 0,2 5,0 0,-2 0,-1 0,-1 -5,0 z"/>
  </g>
  <g id="north-bottom" transform="translate(-152,-3)">
-  <path style="fill:#1a9fff" transform="translate(152,3)" d="m 112,114 0,3 0,1 5,0 0,-1 0,-3 -5,0 z"/>
+  <path style="fill:#010101" transform="translate(152,3)" d="m 112,114 0,3 0,1 5,0 0,-1 0,-3 -5,0 z"/>
  </g>
  <g id="south-center" transform="translate(-165,-4)">
-  <path style="fill:#1a9fff" d="m 264,112 0,5 5,0 0,-5 -5,0 z"/>
+  <path style="fill:#010101" d="m 264,112 0,5 5,0 0,-5 -5,0 z"/>
  </g>
  <g id="south-top" transform="translate(-165,-5)">
-  <path style="fill:#1a9fff" transform="translate(165,5)" d="m 99,103 0,1 0,1 0,2 5,0 0,-2 0,-1 0,-1 -5,0 z"/>
+  <path style="fill:#010101" transform="translate(165,5)" d="m 99,103 0,1 0,1 0,2 5,0 0,-2 0,-1 0,-1 -5,0 z"/>
  </g>
  <g id="south-bottom" style="fill:url(#linearGradient4315)" transform="translate(-165,-3)">
-  <path style="fill:#1a9fff" transform="translate(165,3)" d="m 99,114 0,3 0,1 5,0 0,-1 0,-3 -5,0 z"/>
+  <path style="fill:#010101" transform="translate(165,3)" d="m 99,114 0,3 0,1 5,0 0,-1 0,-3 -5,0 z"/>
  </g>
  <g id="east-center" transform="matrix(0,-1,1,0,-16,334)">
-  <path style="fill:#1a9fff" d="m 264,112 0,5 5,0 0,-5 -5,0 z"/>
+  <path style="fill:#010101" d="m 264,112 0,5 5,0 0,-5 -5,0 z"/>
  </g>
  <g id="east-left" transform="matrix(0,-1,1,0,-17,334)">
-  <path style="fill:#1a9fff" transform="matrix(0,1,-1,0,334,17)" d="m 91,65 0,5 1,0 3,0 0,-5 -3,0 -1,0 z"/>
+  <path style="fill:#010101" transform="matrix(0,1,-1,0,334,17)" d="m 91,65 0,5 1,0 3,0 0,-5 -3,0 -1,0 z"/>
  </g>
  <g id="east-right" transform="matrix(0,-1,1,0,-15,334)">
-  <path style="fill:#1a9fff" transform="matrix(0,1,-1,0,334,15)" d="m 102,65 0,5 3,0 1,0 0,-5 -1,0 -3,0 z"/>
+  <path style="fill:#010101" transform="matrix(0,1,-1,0,334,15)" d="m 102,65 0,5 3,0 1,0 0,-5 -1,0 -3,0 z"/>
  </g>
  <g id="west-center" transform="matrix(0,-1,1,0,-16,347)">
-  <path style="fill:#1a9fff" d="m 264,112 0,5 5,0 0,-5 -5,0 z"/>
+  <path style="fill:#010101" d="m 264,112 0,5 5,0 0,-5 -5,0 z"/>
  </g>
  <g id="west-left" style="fill:url(#linearGradient4325)" transform="matrix(0,-1,1,0,-17,347)">
-  <path style="fill:#1a9fff" transform="matrix(0,1,-1,0,347,17)" d="m 91,78 0,5 1,0 3,0 0,-5 -3,0 -1,0 z"/>
+  <path style="fill:#010101" transform="matrix(0,1,-1,0,347,17)" d="m 91,78 0,5 1,0 3,0 0,-5 -3,0 -1,0 z"/>
  </g>
  <g id="west-right" transform="matrix(0,-1,1,0,-15,347)">
-  <path style="fill:#1a9fff" transform="matrix(0,1,-1,0,347,15)" d="m 102,78 0,5 3,0 1,0 0,-5 -1,0 -3,0 z"/>
+  <path style="fill:#010101" transform="matrix(0,1,-1,0,347,15)" d="m 102,78 0,5 3,0 1,0 0,-5 -1,0 -3,0 z"/>
  </g>
  <g id="vertical-centerindicator" transform="translate(1,15)">
   <rect style="opacity:0.2" width="42" height="1" x="11" y="32"/>
-  <rect style="fill:#1a9fff" width="42" height="1" x="11" y="33"/>
-  <rect style="fill:#1a9fff" width="42" height="1" x="11" y="31"/>
+  <rect style="fill:#010101" width="42" height="1" x="11" y="33"/>
+  <rect style="fill:#010101" width="42" height="1" x="11" y="31"/>
  </g>
  <g id="horizontal-centerindicator" transform="translate(-4,17)">
   <rect style="opacity:0.2" width="42" height="1" x="-31" y="8" transform="matrix(0,-1,1,0,0,0)"/>
-  <rect style="fill:#1a9fff" width="42" height="1" x="-31" y="9" transform="matrix(0,-1,1,0,0,0)"/>
-  <rect style="fill:#1a9fff" width="42" height="1" x="-31" y="7" transform="matrix(0,-1,1,0,0,0)"/>
+  <rect style="fill:#010101" width="42" height="1" x="-31" y="9" transform="matrix(0,-1,1,0,0,0)"/>
+  <rect style="fill:#010101" width="42" height="1" x="-31" y="7" transform="matrix(0,-1,1,0,0,0)"/>
  </g>
- <g id="west-minslider" transform="translate(5.0312,68.003199)">
-  <g transform="translate(-405,100)">
-   <path style="fill:#ffffff" d="m 419,-89.222 -1.375,1.4062 -3.6562,-3.6562 0.0312,7.4688 -2,0 -0.0312,-7.4688 -3.625,3.6562 -1.375,-1.4062 6.0312,-6 6,6 z m -4,-8.7812 c 0,1.1046 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"/>
-  </g>
+ <g id="west-minslider">
+  <path style="fill:#fefefe" d="m 18.999994,78.882985 -1.371434,1.378775 -3.64412,-3.584893 0.03112,7.323136 h -2 L 11.984441,76.676867 8.3714284,80.26176 6.9999941,78.882985 13.015554,73.000003 Z"/>
+  <rect style="fill:#fefefe" width="12" height="2" x="7" y="69"/>
  </g>
- <g id="north-offsetslider" transform="translate(37,108.0004)">
-  <g transform="translate(-385,98.003)">
-   <path style="fill:#ffffff" d="m 387,-90.215 1.3858,1.3851 3.6348,-3.6349 -0.0211,8.4614 2,0 0.0211,-8.4614 3.6344,3.6349 1.3851,-1.3851 -6.0406,-6.0009 z"/>
-  </g>
+ <g id="east-minslider" transform="translate(15.000006)">
+  <path style="fill:#fefefe" d="m 18.999994,78.882985 -1.371434,1.378775 -3.64412,-3.584893 0.03112,7.323136 h -2 L 11.984441,76.676867 8.3714284,80.26176 6.9999941,78.882985 13.015554,73.000003 Z"/>
+  <rect style="fill:#fefefe" width="12" height="2" x="7" y="69"/>
  </g>
- <g id="north-maxslider" transform="translate(6.9988,89.968849)">
-  <g transform="translate(-325,99.003)">
-   <path style="fill:#ffffff" d="m 330.22,-97.003 -1.4062,1.375 3.6562,3.6562 -7.4688,-0.03125 0,2 7.4688,0.0312 -3.6562,3.625 1.4062,1.375 6,-6.0312 -6,-6 z m 8.7812,4 c -1.1046,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"/>
-  </g>
+ <g id="west-maxslider" transform="matrix(1,0,0,-1,30.01556,153)">
+  <path style="fill:#fefefe" d="m 18.999994,78.882985 -1.371434,1.378775 -3.64412,-3.584893 0.03112,7.323136 h -2 L 11.984441,76.676867 8.3714284,80.26176 6.9999941,78.882985 13.015554,73.000003 Z"/>
+  <rect style="fill:#fefefe" width="12" height="2" x="7" y="69"/>
  </g>
- <g id="east-offsetslider" transform="translate(5.0016,107.9598)">
-  <g transform="translate(-305,99.003)">
-   <path style="fill:#ffffff" d="m 313.21,-97.003 -1.3851,1.3859 3.6349,3.6348 -8.4614,-0.0211 0,2 8.4614,0.0211 -3.6349,3.6344 1.3851,1.3851 6.0009,-6.0406 z"/>
-  </g>
+ <g id="east-maxslider" transform="matrix(1,0,0,-1,45.015566,153)">
+  <path style="fill:#fefefe" d="m 18.999994,78.882985 -1.371434,1.378775 -3.64412,-3.584893 0.03112,7.323136 h -2 L 11.984441,76.676867 8.3714284,80.26176 6.9999941,78.882985 13.015554,73.000003 Z"/>
+  <rect style="fill:#fefefe" width="12" height="2" x="7" y="69"/>
  </g>
- <g id="east-minslider" transform="translate(22.0312,68.003199)">
-  <g transform="translate(-405,100)">
-   <path style="fill:#ffffff" d="m 419,-89.222 -1.375,1.4062 -3.6562,-3.6562 0.0312,7.4688 -2,0 -0.0312,-7.4688 -3.625,3.6562 -1.375,-1.4062 6.0312,-6 6,6 z m -4,-8.7812 c 0,1.1046 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"/>
-  </g>
+ <g id="north-maxslider" transform="rotate(90,3.0000022,86.000001)">
+  <path style="fill:#fefefe" d="m 18.999994,78.882985 -1.371434,1.378775 -3.64412,-3.584893 0.03112,7.323136 h -2 L 11.984441,76.676867 8.3714284,80.26176 6.9999941,78.882985 13.015554,73.000003 Z"/>
+  <rect style="fill:#fefefe" width="12" height="2" x="7" y="69"/>
  </g>
- <g id="west-maxslider" transform="matrix(1,0,0,-1,38.0312,83.996799)">
-  <g transform="translate(-405,100)">
-   <path style="fill:#ffffff" d="m 419,-89.222 -1.375,1.4062 -3.6562,-3.6562 0.0312,7.4688 -2,0 -0.0312,-7.4688 -3.625,3.6562 -1.375,-1.4062 6.0312,-6 6,6 z m -4,-8.7812 c 0,1.1046 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"/>
-  </g>
+ <g id="south-maxslider" transform="rotate(90,12.000001,95.000001)">
+  <path style="fill:#fefefe" d="m 18.999994,78.882985 -1.371434,1.378775 -3.64412,-3.584893 0.03112,7.323136 h -2 L 11.984441,76.676867 8.3714284,80.26176 6.9999941,78.882985 13.015554,73.000003 Z"/>
+  <rect style="fill:#fefefe" width="12" height="2" x="7" y="69"/>
  </g>
- <g id="east-maxslider" transform="matrix(1,0,0,-1,55.0312,83.996799)">
-  <g transform="translate(-405,100)">
-   <path style="fill:#ffffff" d="m 419,-89.222 -1.375,1.4062 -3.6562,-3.6562 0.0312,7.4688 -2,0 -0.0312,-7.4688 -3.625,3.6562 -1.375,-1.4062 6.0312,-6 6,6 z m -4,-8.7812 c 0,1.1046 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"/>
-  </g>
+ <g id="south-minslider" transform="matrix(0,1,1,0,-10.000002,82.999998)">
+  <path style="fill:#fefefe" d="m 18.999994,78.882985 -1.371434,1.378775 -3.64412,-3.584893 0.03112,7.323136 h -2 L 11.984441,76.676867 8.3714284,80.26176 6.9999941,78.882985 13.015554,73.000003 Z"/>
+  <rect style="fill:#fefefe" width="12" height="2" x="7" y="69"/>
  </g>
- <g id="south-maxslider" transform="translate(25.9988,89.968849)">
-  <g transform="translate(-325,99.003)">
-   <path style="fill:#ffffff" d="m 330.22,-97.003 -1.4062,1.375 3.6562,3.6562 -7.4688,-0.03125 0,2 7.4688,0.0312 -3.6562,3.625 1.4062,1.375 6,-6.0312 -6,-6 z m 8.7812,4 c -1.1046,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"/>
-  </g>
+ <g id="north-minslider" transform="matrix(0,1,1,0,-28.000002,82.999998)">
+  <path style="fill:#fefefe" d="m 18.999994,78.882985 -1.371434,1.378775 -3.64412,-3.584893 0.03112,7.323136 h -2 L 11.984441,76.676867 8.3714284,80.26176 6.9999941,78.882985 13.015554,73.000003 Z"/>
+  <rect style="fill:#fefefe" width="12" height="2" x="7" y="69"/>
  </g>
- <g id="north-minslider" transform="matrix(-1,0,0,1,61.0012,89.968849)">
-  <g transform="translate(-325,99.003)">
-   <path style="fill:#ffffff" d="m 330.22,-97.003 -1.4062,1.375 3.6562,3.6562 -7.4688,-0.03125 0,2 7.4688,0.0312 -3.6562,3.625 1.4062,1.375 6,-6.0312 -6,-6 z m 8.7812,4 c -1.1046,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"/>
-  </g>
- </g>
- <g id="south-minslider" transform="matrix(-1,0,0,1,80.0012,89.968849)">
-  <g transform="translate(-325,99.003)">
-   <path style="fill:#ffffff" d="m 330.22,-97.003 -1.4062,1.375 3.6562,3.6562 -7.4688,-0.03125 0,2 7.4688,0.0312 -3.6562,3.625 1.4062,1.375 6,-6.0312 -6,-6 z m 8.7812,4 c -1.1046,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"/>
-  </g>
- </g>
- <g id="west-offsetslider" transform="matrix(-1,0,0,1,37.2109,107.9598)">
-  <g transform="translate(-305,99.003)">
-   <path style="fill:#ffffff" d="m 313.21,-97.003 -1.3851,1.3859 3.6349,3.6348 -8.4614,-0.0211 0,2 8.4614,0.0211 -3.6349,3.6344 1.3851,1.3851 6.0009,-6.0406 z"/>
-  </g>
- </g>
- <g id="south-offsetslider" transform="matrix(1,0,0,-1,52,123.7871)">
-  <g transform="translate(-385,98.003)">
-   <path style="fill:#ffffff" d="m 387,-90.215 1.3858,1.3851 3.6348,-3.6349 -0.0211,8.4614 2,0 0.0211,-8.4614 3.6344,3.6349 1.3851,-1.3851 -6.0406,-6.0009 z"/>
-  </g>
- </g>
+ <path id="east-offsetslider" style="fill:#fefefe" d="m 14.103517,108.00003 -1.360999,1.38127 3.571652,3.62921 L 8,112.98949 v 2.00001 l 8.31417,0.021 -3.571652,3.60902 L 14.103517,120 20,113.9796 Z"/>
+ <path id="west-offsetslider" style="fill:#fefefe" d="m 28.896483,108.00003 1.360999,1.38127 -3.571652,3.62921 8.31417,-0.021 v 2.00001 l -8.31417,0.021 3.571652,3.60902 L 28.896483,120 23,113.9796 Z"/>
+ <path id="north-offsetslider" style="fill:#fefefe" d="m 49.99997,113.8965 -1.38127,1.361 -3.62921,-3.57166 0.021,8.31417 h -2.00001 l -0.021,-8.31417 -3.60902,3.57166 -1.38046,-1.361 6.0204,-5.89649 z"/>
+ <path id="south-offsetslider" style="fill:#fefefe" d="m 64.99997,114.10352 -1.38127,-1.361 -3.62921,3.57166 0.021,-8.31417 h -2.00001 l -0.021,8.31417 -3.60902,-3.57166 -1.38046,1.361 6.0204,5.89649 z"/>
 </svg>
