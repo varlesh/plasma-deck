@@ -1,49 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="125" version="1">
  <g id="minimized-bottom">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="122"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 3,122 v 1 1 h 14 v -1 -1 z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 3,122 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="minimized-left" transform="translate(-1,42)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
-  <path style="opacity:0.05;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
  </g>
  <g id="minimized-right" transform="translate(-1,42)">
   <rect style="opacity:0.001" width="3" height="14" x="18" y="66"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
  </g>
  <g id="minimized-center" transform="matrix(0.51851851,0,0,1.0769231,0.407407,103.58462)">
-  <rect style="opacity:0.05;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.10;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="minimized-topleft" transform="translate(-1,42)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="63"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
  </g>
  <g id="minimized-topright" transform="translate(-1,42)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="63"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
  </g>
  <g id="minimized-bottomleft" transform="translate(-1,42)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
  </g>
  <g id="minimized-bottomright" transform="translate(-1,42)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="group-expander-left" transform="translate(84,66)">
   <path style="fill:#fefefe" d="M 12,46 19,41.996831 12,38 Z"/>
-  <path id="center-3-2-8-5-6-8" style="opacity:0.27;fill:none" transform="matrix(1,0,0,-1.2,36.984217,81.57775)" d="m -24.984217,27.981458 v 10 h 10 v -10 z"/>
+  <path id="center-3-2-8-5-6-8" style="opacity:0.157;fill:none" transform="matrix(1,0,0,-1.2,36.984217,81.57775)" d="m -24.984217,27.981458 v 10 h 10 v -10 z"/>
  </g>
  <g id="group-expander-bottom" transform="translate(61,78)">
   <path style="fill:#fefefe" d="M 25,47 29.003169,40 33,47 Z"/>
-  <path id="center-3-2-8-5-9-9" style="opacity:0.27;fill:none" transform="matrix(0,-1,1.2,0,-10.57775,22.015783)" d="m -24.984217,27.981458 v 10 h 10 v -10 z"/>
+  <path id="center-3-2-8-5-9-9" style="opacity:0.157;fill:none" transform="matrix(0,-1,1.2,0,-10.57775,22.015783)" d="m -24.984217,27.981458 v 10 h 10 v -10 z"/>
  </g>
  <g id="group-expander-top" transform="translate(60,78)">
   <path style="fill:#fefefe" d="M 47,37 42.996831,44 39,37 Z"/>
-  <path id="center-3-2-8-5-3-3" style="opacity:0.27;fill:none" transform="matrix(0,1,-1.2,0,82.57775,61.984217)" d="m -24.984217,27.981458 v 10 h 10 v -10 z"/>
+  <path id="center-3-2-8-5-3-3" style="opacity:0.157;fill:none" transform="matrix(0,1,-1.2,0,82.57775,61.984217)" d="m -24.984217,27.981458 v 10 h 10 v -10 z"/>
  </g>
  <g id="group-expander-right" transform="translate(85,66.003169)">
-  <path id="center-3-2-8-5-1" style="opacity:0.27;fill:none" transform="matrix(-1,0,0,-1.2,-14.984217,81.57775)" d="m -24.984217,27.981458 v 10 h 10 v -10 z"/>
+  <path id="center-3-2-8-5-1" style="opacity:0.157;fill:none" transform="matrix(-1,0,0,-1.2,-14.984217,81.57775)" d="m -24.984217,27.981458 v 10 h 10 v -10 z"/>
   <path style="fill:#fefefe" d="M 10,46 3,41.996831 10,38 Z"/>
  </g>
  <g id="attention-bottom">
@@ -85,18 +85,18 @@
  </g>
  <g id="hover-bottom">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="80"/>
-  <path style="fill:#fefefe;opacity:0.1" d="m 3,80 v 1 1 h 14 v -1 -1 z"/>
+  <path style="fill:#fefefe;opacity:0.15" d="m 3,80 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="hover-left" transform="translate(-1)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
-  <path style="opacity:0.1;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
  </g>
  <g id="hover-right" transform="translate(-1)">
   <rect style="opacity:0.001" width="3" height="14" x="18" y="66"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
  </g>
  <g id="hover-center" transform="matrix(0.51851851,0,0,1.0769231,0.40740745,61.584615)">
-  <rect style="opacity:0.1;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.15;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="hover-top" transform="translate(-1)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
@@ -114,63 +114,63 @@
  </g>
  <g id="hover-bottomleft" transform="translate(-1)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
-  <path style="fill:#fefefe;opacity:0.1" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+  <path style="fill:#fefefe;opacity:0.15" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
  </g>
  <g id="hover-bottomright" transform="translate(-1)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
-  <path style="fill:#fefefe;opacity:0.1" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+  <path style="fill:#fefefe;opacity:0.15" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="normal-bottom">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="59"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 3,59 v 1 1 h 14 v -1 -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 3,59 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="normal-left" transform="translate(-1,-21)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
-  <path style="opacity:0.1;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
  </g>
  <g id="normal-right" transform="translate(-1,-21)">
   <rect style="opacity:0.001" width="3" height="14" x="18" y="66"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
  </g>
  <g id="normal-center" transform="matrix(0.51851851,0,0,1.0769231,0.407407,40.58462)">
-  <rect style="opacity:0.1;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.15;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="normal-top" transform="translate(-1,-21)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
   <g transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
-   <path style="opacity:0.1;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+   <path style="opacity:0.5;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
  </g>
  <g id="normal-topleft" transform="translate(-1,-21)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="63"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+  <path style="opacity:0.5;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
  </g>
  <g id="normal-topright" transform="translate(-1,-21)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="63"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+  <path style="opacity:0.5;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
  </g>
  <g id="normal-bottomleft" transform="translate(-1,-21)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
  </g>
  <g id="normal-bottomright" transform="translate(-1,-21)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="focus-bottom">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="38"/>
-  <path style="fill:#fefefe;opacity:0.1" d="m 3,38 v 1 1 h 14 v -1 -1 z"/>
+  <path style="fill:#fefefe;opacity:0.15" d="m 3,38 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="focus-left" transform="translate(-1,-42)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
-  <path style="opacity:0.1;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
  </g>
  <g id="focus-right" transform="translate(-1,-42)">
   <rect style="opacity:0.001" width="3" height="14" x="18" y="66"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
  </g>
  <g id="focus-center" transform="matrix(0.51851851,0,0,1.0769231,0.407407,19.58462)">
-  <rect style="opacity:0.1;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.15;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="focus-top" transform="translate(-1,-42)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
@@ -188,11 +188,11 @@
  </g>
  <g id="focus-bottomleft" transform="translate(-1,-42)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
-  <path style="fill:#fefefe;opacity:0.1" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+  <path style="fill:#fefefe;opacity:0.15" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
  </g>
  <g id="focus-bottomright" transform="translate(-1,-42)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
-  <path style="fill:#fefefe;opacity:0.1" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+  <path style="fill:#fefefe;opacity:0.15" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="north-progress-bottom" transform="translate(21)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="17"/>
@@ -226,40 +226,40 @@
  </g>
  <g id="north-minimized-bottom" transform="translate(21)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="122"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 3,122 v 1 1 h 14 v -1 -1 z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 3,122 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="north-minimized-left" transform="translate(20,42)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
-  <path style="opacity:0.05;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
  </g>
  <g id="north-minimized-right" transform="translate(20,42)">
   <rect style="opacity:0.001" width="3" height="14" x="18" y="66"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
  </g>
  <g id="north-minimized-center" transform="matrix(0.51851851,0,0,1.0769231,21.407407,103.58462)">
-  <rect style="opacity:0.05;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.10;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="north-minimized-top" transform="translate(20,42)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
   <g id="hover-top-9" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
-   <path style="opacity:0.05;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+   <path style="opacity:0.10;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
  </g>
  <g id="north-minimized-topleft" transform="translate(20,42)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="63"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
  </g>
  <g id="north-minimized-topright" transform="translate(20,42)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="63"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
  </g>
  <g id="north-minimized-bottomleft" transform="translate(20,42)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
  </g>
  <g id="north-minimized-bottomright" transform="translate(20,42)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="north-attention-bottom" transform="translate(21)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="101"/>
@@ -304,28 +304,28 @@
  </g>
  <g id="north-hover-left" transform="translate(20)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
-  <path style="opacity:0.1;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
  </g>
  <g id="north-hover-right" transform="translate(20)">
   <rect style="opacity:0.001" width="3" height="14" x="18" y="66"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
  </g>
  <g id="north-hover-center" transform="matrix(0.51851851,0,0,1.0769231,21.407407,61.584615)">
-  <rect style="opacity:0.1;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.15;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="north-hover-top" transform="translate(20)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
   <g transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
-   <path style="opacity:0.1;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+   <path style="opacity:0.15;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
  </g>
  <g id="north-hover-topleft" transform="translate(20)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="63"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
  </g>
  <g id="north-hover-topright" transform="translate(20)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="63"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
  </g>
  <g id="north-hover-bottomleft" transform="translate(20)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
@@ -337,40 +337,40 @@
  </g>
  <g id="north-normal-bottom" transform="translate(21)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="59"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 3,59 v 1 1 h 14 v -1 -1 z"/>
+  <path style="opacity:0.5;fill:#fefefe" d="m 3,59 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="north-normal-left" transform="translate(20,-21)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
-  <path style="opacity:0.1;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
  </g>
  <g id="north-normal-right" transform="translate(20,-21)">
   <rect style="opacity:0.001" width="3" height="14" x="18" y="66"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
  </g>
  <g id="north-normal-center" transform="matrix(0.51851851,0,0,1.0769231,21.407407,40.58462)">
-  <rect style="opacity:0.1;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.15;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="north-normal-top" transform="translate(20,-21)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
   <g transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
-   <path style="opacity:0.1;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+   <path style="opacity:0.15;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
  </g>
  <g id="north-normal-topleft" transform="translate(20,-21)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="63"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
  </g>
  <g id="north-normal-topright" transform="translate(20,-21)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="63"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
  </g>
  <g id="north-normal-bottomleft" transform="translate(20,-21)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+  <path style="opacity:0.5;fill:#fefefe" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
  </g>
  <g id="north-normal-bottomright" transform="translate(20,-21)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+  <path style="opacity:0.5;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="north-focus-bottom" transform="translate(21)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="38"/>
@@ -378,28 +378,28 @@
  </g>
  <g id="north-focus-left" transform="translate(20,-42)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
-  <path style="opacity:0.1;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
  </g>
  <g id="north-focus-right" transform="translate(20,-42)">
   <rect style="opacity:0.001" width="3" height="14" x="18" y="66"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
  </g>
  <g id="north-focus-center" transform="matrix(0.51851851,0,0,1.0769231,21.407407,19.58462)">
-  <rect style="opacity:0.1;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.15;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="north-focus-top" transform="translate(20,-42)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
   <g transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
-   <path style="opacity:0.1;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+   <path style="opacity:0.15;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
  </g>
  <g id="north-focus-topleft" transform="translate(20,-42)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="63"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
  </g>
  <g id="north-focus-topright" transform="translate(20,-42)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="63"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
  </g>
  <g id="north-focus-bottomleft" transform="translate(20,-42)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
@@ -429,40 +429,40 @@
  </g>
  <g id="east-minimized-bottom" transform="translate(42)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="122"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 3,122 v 1 1 h 14 v -1 -1 z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 3,122 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="east-minimized-left" transform="translate(41,42)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
-  <path style="opacity:0.05;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
  </g>
  <g id="east-minimized-right" transform="translate(41,42)">
   <rect style="opacity:0.001" width="3" height="14" x="18" y="66"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
  </g>
  <g id="east-minimized-center" transform="matrix(0.51851851,0,0,1.0769231,42.407407,103.58462)">
-  <rect style="opacity:0.05;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.10;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="east-minimized-top" transform="translate(41,42)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
   <g id="hover-top-1" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
-   <path style="opacity:0.05;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+   <path style="opacity:0.10;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
  </g>
  <g id="east-minimized-topleft" transform="translate(41,42)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="63"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
  </g>
  <g id="east-minimized-topright" transform="translate(41,42)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="63"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
  </g>
  <g id="east-minimized-bottomleft" transform="translate(41,42)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
  </g>
  <g id="east-minimized-bottomright" transform="translate(41,42)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="east-attention-bottom" transform="translate(42)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="101"/>
@@ -503,7 +503,7 @@
  </g>
  <g id="east-hover-bottom" transform="translate(42)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="80"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 3,80 v 1 1 h 14 v -1 -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 3,80 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="east-hover-left" transform="translate(41)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
@@ -511,15 +511,15 @@
  </g>
  <g id="east-hover-right" transform="translate(41)">
   <rect style="opacity:0.001" width="3" height="14" x="18" y="66"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
  </g>
  <g id="east-hover-center" transform="matrix(0.51851851,0,0,1.0769231,42.407407,61.584615)">
-  <rect style="opacity:0.1;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.15;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="east-hover-top" transform="translate(41)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
   <g transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
-   <path style="opacity:0.1;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+   <path style="opacity:0.15;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
  </g>
  <g id="east-hover-topleft" transform="translate(41)">
@@ -528,7 +528,7 @@
  </g>
  <g id="east-hover-topright" transform="translate(41)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="63"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
  </g>
  <g id="east-hover-bottomleft" transform="translate(41)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
@@ -536,48 +536,48 @@
  </g>
  <g id="east-hover-bottomright" transform="translate(41)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="east-normal-bottom" transform="translate(42)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="59"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 3,59 v 1 1 h 14 v -1 -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 3,59 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="east-normal-left" transform="translate(41,-21)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
-  <path style="opacity:0.1;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+  <path style="opacity:0.5;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
  </g>
  <g id="east-normal-right" transform="translate(41,-21)">
   <rect style="opacity:0.001" width="3" height="14" x="18" y="66"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
  </g>
  <g id="east-normal-center" transform="matrix(0.51851851,0,0,1.0769231,42.407407,40.58462)">
-  <rect style="opacity:0.1;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.15;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="east-normal-top" transform="translate(41,-21)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
   <g transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
-   <path style="opacity:0.1;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+   <path style="opacity:0.15;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
  </g>
  <g id="east-normal-topleft" transform="translate(41,-21)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="63"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+  <path style="opacity:0.5;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
  </g>
  <g id="east-normal-topright" transform="translate(41,-21)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="63"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
  </g>
  <g id="east-normal-bottomleft" transform="translate(41,-21)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+  <path style="opacity:0.5;fill:#fefefe" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
  </g>
  <g id="east-normal-bottomright" transform="translate(41,-21)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="east-focus-bottom" transform="translate(42)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="38"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 3,38 v 1 1 h 14 v -1 -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 3,38 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="east-focus-left" transform="translate(41,-42)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
@@ -585,15 +585,15 @@
  </g>
  <g id="east-focus-right" transform="translate(41,-42)">
   <rect style="opacity:0.001" width="3" height="14" x="18" y="66"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
  </g>
  <g id="east-focus-center" transform="matrix(0.51851851,0,0,1.0769231,42.407407,19.58462)">
-  <rect style="opacity:0.1;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.15;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="east-focus-top" transform="translate(41,-42)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
   <g transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
-   <path style="opacity:0.1;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+   <path style="opacity:0.15;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
  </g>
  <g id="east-focus-topleft" transform="translate(41,-42)">
@@ -602,7 +602,7 @@
  </g>
  <g id="east-focus-topright" transform="translate(41,-42)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="63"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
  </g>
  <g id="east-focus-bottomleft" transform="translate(41,-42)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
@@ -610,7 +610,7 @@
  </g>
  <g id="east-focus-bottomright" transform="translate(41,-42)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="east-progress-left">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="-45" transform="rotate(90)"/>
@@ -632,40 +632,40 @@
  </g>
  <g id="west-minimized-bottom" transform="translate(63)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="122"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 3,122 v 1 1 h 14 v -1 -1 z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 3,122 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="west-minimized-left" transform="translate(62,42)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
-  <path style="opacity:0.05;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
  </g>
  <g id="west-minimized-right" transform="translate(62,42)">
   <rect style="opacity:0.001" width="3" height="14" x="18" y="66"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
  </g>
  <g id="west-minimized-center" transform="matrix(0.51851851,0,0,1.0769231,63.407407,103.58462)">
-  <rect style="opacity:0.05;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.10;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="west-minimized-top" transform="translate(62,42)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
   <g id="hover-top-94" transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
-   <path style="opacity:0.05;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+   <path style="opacity:0.10;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
  </g>
  <g id="west-minimized-topleft" transform="translate(62,42)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="63"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
  </g>
  <g id="west-minimized-topright" transform="translate(62,42)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="63"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
  </g>
  <g id="west-minimized-bottomleft" transform="translate(62,42)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
  </g>
  <g id="west-minimized-bottomright" transform="translate(62,42)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
-  <path style="opacity:0.05;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+  <path style="opacity:0.10;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="west-attention-bottom" transform="translate(63)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="101"/>
@@ -706,28 +706,28 @@
  </g>
  <g id="west-hover-bottom" transform="translate(63)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="80"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 3,80 v 1 1 h 14 v -1 -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 3,80 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="west-hover-left" transform="translate(62)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
-  <path style="opacity:0.1;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
  </g>
  <g id="west-hover-right" transform="translate(62)">
   <rect style="opacity:0.001" width="3" height="14" x="18" y="66"/>
   <path style="fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
  </g>
  <g id="west-hover-center" transform="matrix(0.51851851,0,0,1.0769231,63.407407,61.58462)">
-  <rect style="opacity:0.1;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.15;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="west-hover-top" transform="translate(62)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
   <g transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
-   <path style="opacity:0.1;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+   <path style="opacity:0.15;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
  </g>
  <g id="west-hover-topleft" transform="translate(62)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="63"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
  </g>
  <g id="west-hover-topright" transform="translate(62)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="63"/>
@@ -735,7 +735,7 @@
  </g>
  <g id="west-hover-bottomleft" transform="translate(62)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
  </g>
  <g id="west-hover-bottomright" transform="translate(62)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
@@ -743,65 +743,65 @@
  </g>
  <g id="west-normal-bottom" transform="translate(63)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="59"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 3,59 v 1 1 h 14 v -1 -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 3,59 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="west-normal-left" transform="translate(62,-21)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
-  <path style="opacity:0.1;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
  </g>
  <g id="west-normal-right" transform="translate(62,-21)">
   <rect style="opacity:0.001" width="3" height="14" x="18" y="66"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
+  <path style="opacity:0.5;fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
  </g>
  <g id="west-normal-center" transform="matrix(0.51851851,0,0,1.0769231,63.407407,40.58462)">
-  <rect style="opacity:0.1;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.15;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="west-normal-top" transform="translate(62,-21)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
   <g transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
-   <path style="opacity:0.1;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+   <path style="opacity:0.15;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
  </g>
  <g id="west-normal-topleft" transform="translate(62,-21)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="63"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
  </g>
  <g id="west-normal-topright" transform="translate(62,-21)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="63"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
+  <path style="opacity:0.5;fill:#fefefe" d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z"/>
  </g>
  <g id="west-normal-bottomleft" transform="translate(62,-21)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
  </g>
  <g id="west-normal-bottomright" transform="translate(62,-21)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
+  <path style="opacity:0.5;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
  <g id="west-focus-bottom" transform="translate(63)">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="38"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 3,38 v 1 1 h 14 v -1 -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 3,38 v 1 1 h 14 v -1 -1 z"/>
  </g>
  <g id="west-focus-left" transform="translate(62,-42)">
   <rect style="opacity:0.001" width="3" height="14" x="1" y="66"/>
-  <path style="opacity:0.1;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="M 2,66 V 80 H 3 4 V 66 H 3 Z"/>
  </g>
  <g id="west-focus-right" transform="translate(62,-42)">
   <rect style="opacity:0.001" width="3" height="14" x="18" y="66"/>
   <path style="fill:#fefefe" d="m 18,66 v 14 h 1 1 V 66 h -1 z"/>
  </g>
  <g id="west-focus-center" transform="matrix(0.51851851,0,0,1.0769231,63.407407,19.58462)">
-  <rect style="opacity:0.1;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
+  <rect style="opacity:0.15;fill:#fefefe" width="27" height="13" x="5" y="4.1"/>
  </g>
  <g id="west-focus-top" transform="translate(62,-42)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
   <g transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
-   <path style="opacity:0.1;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+   <path style="opacity:0.15;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
  </g>
  <g id="west-focus-topleft" transform="translate(62,-42)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="63"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z"/>
  </g>
  <g id="west-focus-topright" transform="translate(62,-42)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="63"/>
@@ -809,7 +809,7 @@
  </g>
  <g id="west-focus-bottomleft" transform="translate(62,-42)">
   <rect style="opacity:0.001" width="3" height="3" x="1" y="80"/>
-  <path style="opacity:0.1;fill:#fefefe" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
+  <path style="opacity:0.15;fill:#fefefe" d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z"/>
  </g>
  <g id="west-focus-bottomright" transform="translate(62,-42)">
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
@@ -836,7 +836,7 @@
  <g id="minimized-top" transform="translate(-1,42)">
   <rect style="opacity:0.001" width="14" height="3" x="4" y="63"/>
   <g transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
-   <path style="opacity:0.05;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
+   <path style="opacity:0.10;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
  </g>
 </svg>
