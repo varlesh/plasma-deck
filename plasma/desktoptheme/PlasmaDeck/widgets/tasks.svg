@@ -30,22 +30,6 @@
   <rect style="opacity:0.001" width="3" height="3" x="18" y="80"/>
   <path style="opacity:0.10;fill:#fefefe" d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z"/>
  </g>
- <g id="group-expander-left" transform="translate(84,66)">
-  <path style="fill:#fefefe" d="M 12,46 19,41.996831 12,38 Z"/>
-  <path id="center-3-2-8-5-6-8" style="opacity:0.157;fill:none" transform="matrix(1,0,0,-1.2,36.984217,81.57775)" d="m -24.984217,27.981458 v 10 h 10 v -10 z"/>
- </g>
- <g id="group-expander-bottom" transform="translate(61,78)">
-  <path style="fill:#fefefe" d="M 25,47 29.003169,40 33,47 Z"/>
-  <path id="center-3-2-8-5-9-9" style="opacity:0.157;fill:none" transform="matrix(0,-1,1.2,0,-10.57775,22.015783)" d="m -24.984217,27.981458 v 10 h 10 v -10 z"/>
- </g>
- <g id="group-expander-top" transform="translate(60,78)">
-  <path style="fill:#fefefe" d="M 47,37 42.996831,44 39,37 Z"/>
-  <path id="center-3-2-8-5-3-3" style="opacity:0.157;fill:none" transform="matrix(0,1,-1.2,0,82.57775,61.984217)" d="m -24.984217,27.981458 v 10 h 10 v -10 z"/>
- </g>
- <g id="group-expander-right" transform="translate(85,66.003169)">
-  <path id="center-3-2-8-5-1" style="opacity:0.157;fill:none" transform="matrix(-1,0,0,-1.2,-14.984217,81.57775)" d="m -24.984217,27.981458 v 10 h 10 v -10 z"/>
-  <path style="fill:#fefefe" d="M 10,46 3,41.996831 10,38 Z"/>
- </g>
  <g id="attention-bottom">
   <rect style="opacity:0.001" width="14" height="3" x="3" y="101"/>
   <path style="opacity:0.12;fill:#1a9fff" d="m 3,101 v 1 1 h 14 v -1 -1 z"/>
@@ -838,5 +822,25 @@
   <g transform="matrix(0.53846154,0,0,-1,1.3076923,93)">
    <path style="opacity:0.10;fill:#fefefe" transform="matrix(1,0,0,-1,0,93)" d="m 5,64 v 1 1 h 26 v -1 -1 z"/>
   </g>
+ </g>
+ <g id="group-expander-bottom" style="enable-background:new" transform="translate(-100,75)">
+  <path style="opacity:0.001" d="M 193,50 H 183 V 40 h 10 z"/>
+  <circle style="fill:#fefefe" cx="185.5" cy="-46.5" r="1.5" transform="scale(1,-1)"/>
+  <circle style="fill:#fefefe" cx="190.5" cy="-46.5" r="1.5" transform="scale(1,-1)"/>
+ </g>
+ <g id="group-expander-top" style="enable-background:new" transform="matrix(1,0,0,-1,-90,165)">
+  <path style="opacity:0.001" d="M 193,50 H 183 V 40 h 10 z"/>
+  <circle style="fill:#fefefe" cx="185.5" cy="-46.5" r="1.5" transform="scale(1,-1)"/>
+  <circle style="fill:#fefefe" cx="190.5" cy="-46.5" r="1.5" transform="scale(1,-1)"/>
+ </g>
+ <g id="group-expander-right" style="enable-background:new" transform="rotate(-90,170.5,127.5)">
+  <path style="opacity:0.001" d="M 193,50 H 183 V 40 h 10 z"/>
+  <circle style="fill:#fefefe" cx="185.5" cy="-46.5" r="1.5" transform="scale(1,-1)"/>
+  <circle style="fill:#fefefe" cx="190.5" cy="-46.5" r="1.5" transform="scale(1,-1)"/>
+ </g>
+ <g id="group-expander-left" style="enable-background:new" transform="matrix(0,-1,-1,0,143,298)">
+  <path style="opacity:0.001" d="M 193,50 H 183 V 40 h 10 z"/>
+  <circle style="fill:#fefefe" cx="185.5" cy="-46.5" r="1.5" transform="scale(1,-1)"/>
+  <circle style="fill:#fefefe" cx="190.5" cy="-46.5" r="1.5" transform="scale(1,-1)"/>
  </g>
 </svg>
